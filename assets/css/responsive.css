@@ -1,0 +1,212 @@
+@media screen and (max-width: 1199px){
+.circle-progerss-bar span {
+
+    top: 28%;
+    left: 30%;
+
+}
+.circle-progerss-bar h4 {
+
+    margin-bottom: 70px;
+    margin-top: 20px;
+
+}
+.percentCount {
+
+    margin-top: -10%;
+
+}
+.about-btn a {
+    padding: 15px 10px;
+    margin-right: 15px;
+
+}
+
+.single-client-box i {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.single-client-box h4 {
+  font-size: 30px;
+}
+.single-client-box h3 {
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+}
+
+@media screen and (max-width: 991px){
+  #particles-js {
+    height: 500px;
+
+}
+.single-client-box h3 {
+  font-size: 12px;
+}
+.nav-color {
+  z-index: 999;
+  background: #000;
+}
+.gold-title {
+  font-size: 20px;
+}
+.social-icons a {
+  font-size: 10px;
+}
+.header-content h2 {
+
+    font-size: 40px;
+    margin-top: 20px;
+
+}
+.header-content{
+	top: 175px;
+}
+.image-area {
+
+    width: 101px;
+    height: 105px;
+    border: 4px solid #fff;
+
+}
+.about-btn {
+
+    margin-top: 80px;
+    margin: auto;
+
+}
+.experince-skill {
+
+    display: none;
+
+}
+.about-content {
+
+    text-align: center;
+
+}
+.about-content {
+
+    margin-bottom: 50px;
+
+}
+
+.circle-padding .col-md-4 {
+  padding-right: 75px;
+}
+.circle-padding {
+  padding-top: 60px;
+}
+
+.box-content .icon-box i {
+  font-size: 13px;
+  padding: 10px;
+}
+.box-content h4 {
+  font-size: 15px;
+}
+.box-content h4 span {
+  font-size: 12px;
+}
+.circle-progerss-bar {
+    text-align: center;
+}
+.circle-progerss-bar span {
+    left: 50%;
+    top: 30%;
+}
+.circle-progerss-bar h4 {
+
+    margin-bottom: 70px;
+    margin-top: 10px;
+
+}
+}
+
+@media screen and (max-width: 768px){
+.box-content {
+  margin-top: 30px;
+}
+.icon-box i {
+  margin-top: 15px;
+}
+.avaliable-content {
+
+    margin-top: 15%;
+
+}
+.avaliable-content h3 {
+  font-size: 25px;
+}
+.hire-me-btn {
+  font-size: 12px;
+  padding: 9px 20px !important;
+}
+.logo {
+
+    width: 40%;
+
+}
+.navbar {
+
+    width: 60%;
+
+}
+
+.logo a {
+
+    color: #fff;
+    text-decoration: none;
+    font-size: 22px;
+
+}
+}
+
+
+
+@media screen and (max-width: 575px){
+.header-content h2 {
+
+    font-size: 16px;
+    margin-top: 10px;
+
+}
+
+.title span {
+  font-size: 13px;
+}
+.social-icons a {
+  padding: 5px;
+  font-size: 10px;
+}
+.percentCount {
+
+    margin-top: -12%;
+
+}
+.social-icons {
+
+    margin-top: 10px;
+
+}
+.logo a {
+
+    font-size: 15px;
+  }
+.logo {
+    margin-top: -6px;
+
+}
+.navbar button i {
+    font-size: 13px;
+}
+.about-btn a {
+
+    padding: 15px 10px;
+    margin-right: 10px;
+    font-size: 11px;
+
+}
+}
